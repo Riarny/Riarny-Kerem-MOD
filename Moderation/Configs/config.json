@@ -1,0 +1,53 @@
+{
+  "Bot": {
+    "Token": "ODQ3ODAzOTU4OTg2Mjc2ODY0.GXvFTu.l_XyNQmfty1TjHVU_OISvy668LmqCg8uSxhyuc",
+    "MongoURL": "mongodb+srv://bugracaglayan90:M1zv7Z3m5bzNX3oo@cluster0.lwq515b.mongodb.net/?retryWrites=true&w=majority",
+    "Owners": ["357941060607016960"],
+    "Prefix": ["!", ".", "s!"]
+  },
+
+  "Server": {
+    "GuildID": "1095718196117524491"
+  },
+
+  "Emoji": {
+    "TickEmoji": "<a:Onay:1102699813264441465>",
+    "RedEmoji": "<a:Iptal:1102699854490239118>",
+    "YıldızEmoji": "<a:sariYildiz:1102699832323346494>",
+    "LoadingEmoji": "1102699988783472772",
+    "OrtaDoluBar": "<a:doluBar:1102699835519402085>",
+    "OrtaBoşBar": "<:bosBar:1102700038951538738>",
+    "StartDoluBar": "<a:baslamaBar:1102700047889600655>",
+    "StartBoşBar": "<:baslangicBar:1102700084652683345>",
+    "FinishDoluBar": "<a:fillEnd:1095722659003781171>",
+    "FinishBoşBar": "<:bosBitisBar:1102700125274521680>",
+    "Number1": "1095722002943311974",
+    "Number2": "1095722031858860093",
+    "Number3": "1095721995146113205",
+    "Number4": "1095722017065545890"
+  },
+
+
+  "Channels": {
+    "Chat": "1095718197702963255",
+    "Register": "1095718197702963256",
+    "Tag": "1095767544087990377",
+    "TagAyrıcalıkları": "1095767544087990377",
+    "Yetkili": "1095767587679379577"
+  },
+
+  "Tag": {
+    "TagRolü": "",
+    "Tag": "",
+    "Tags": [""]
+  },
+
+  "Roles": {
+    "BoosterRolü": "1095718196197216372"
+  },
+
+
+  "GifPp": {
+    "BanGif": "https://cdn.discordapp.com/attachments/787761299374211072/787857265452777502/giphy.gif"
+  }
+}
