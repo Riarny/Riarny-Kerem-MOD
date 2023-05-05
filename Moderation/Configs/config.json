@@ -1,7 +1,7 @@
 {
   "Bot": {
-    "Token": "ODQ3ODAzOTU4OTg2Mjc2ODY0.GXvFTu.l_XyNQmfty1TjHVU_OISvy668LmqCg8uSxhyuc",
-    "MongoURL": "mongodb+srv://bugracaglayan90:M1zv7Z3m5bzNX3oo@cluster0.lwq515b.mongodb.net/?retryWrites=true&w=majority",
+    "Token": ".GXvFTu.l_XyNQmfty1TjHVU_OISvy668LmqCg8uSxhyuc",
+    "MongoURL": "",
     "Owners": ["357941060607016960"],
     "Prefix": ["!", ".", "s!"]
   },
